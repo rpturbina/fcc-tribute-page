@@ -70,7 +70,7 @@ body {
 .img-div {
     position: sticky;
     grid-area: img-div;
-    top: 147px;
+    top: 170px;
     height: fit-content;
     padding: 20px;
     border-radius: 8px;
